@@ -23,6 +23,7 @@ import java.util.*;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
+
 public class Frontend extends GUI {
     private final int nMaxPlayers = 20;
     private final int defaultNPlayers = 2;
