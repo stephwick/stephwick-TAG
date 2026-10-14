@@ -1,0 +1,54 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 166
+FirstAction got 472.00 points. FirstAction won 47.4% of the 996 games of the tournament. FirstAction won 71.1% of the 664 games it played during the tournament.
+FirstAction got a mean score of 0.42.
+FirstAction won NaN% of the 0 games against osla.
+FirstAction won 80.4% of the 332 games against random.
+
+osla got 0.00 points. osla won 0.0% of the 996 games of the tournament. osla won NaN% of the 0 games it played during the tournament.
+osla got a mean score of NaN.
+osla won NaN% of the 0 games against FirstAction.
+osla won NaN% of the 0 games against random.
+
+random got 137.00 points. random won 13.8% of the 996 games of the tournament. random won 20.6% of the 664 games it played during the tournament.
+random got a mean score of -0.59.
+random won 19.6% of the 332 games against FirstAction.
+random won NaN% of the 0 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+FirstAction: Win rate 0.71 +/- 0.018	Mean Ordinal 1.29 +/- 0.02
+OSLA: Win rate 0.58 +/- 0.019	Mean Ordinal 1.42 +/- 0.02
+random: Win rate 0.21 +/- 0.016	Mean Ordinal 1.79 +/- 0.02
+
+
+---- Alpha Rank ----  
+FirstAction: Alpha-rank by Win 0.91	Alpha-rank by Ordinal 0.91
+OSLA: Alpha-rank by Win 0.09	Alpha-rank by Ordinal 0.09
+random: Alpha-rank by Win 0.00	Alpha-rank by Ordinal 0.00
+
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 166
+FirstAction got 489.00 points. FirstAction won 49.1% of the 996 games of the tournament. FirstAction won 73.6% of the 664 games it played during the tournament.
+FirstAction got a mean score of 0.47.
+FirstAction won NaN% of the 0 games against osla.
+FirstAction won 83.4% of the 332 games against random.
+
+osla got 0.00 points. osla won 0.0% of the 996 games of the tournament. osla won NaN% of the 0 games it played during the tournament.
+osla got a mean score of NaN.
+osla won NaN% of the 0 games against FirstAction.
+osla won NaN% of the 0 games against random.
+
+random got 131.00 points. random won 13.2% of the 996 games of the tournament. random won 19.7% of the 664 games it played during the tournament.
+random got a mean score of -0.61.
+random won 16.6% of the 332 games against FirstAction.
+random won NaN% of the 0 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+FirstAction: Win rate 0.74 +/- 0.017	Mean Ordinal 1.26 +/- 0.02
+OSLA: Win rate 0.57 +/- 0.019	Mean Ordinal 1.43 +/- 0.02
+random: Win rate 0.20 +/- 0.015	Mean Ordinal 1.80 +/- 0.02
+
+
+---- Alpha Rank ----  
+FirstAction: Alpha-rank by Win 0.94	Alpha-rank by Ordinal 0.94
+OSLA: Alpha-rank by Win 0.06	Alpha-rank by Ordinal 0.06
+random: Alpha-rank by Win 0.00	Alpha-rank by Ordinal 0.00
+
